@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husisy&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![my-GitHub-stats](https://github-readme-stats.vercel.app/api?username=husisy&rank_icon=github&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **husisy/husisy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
